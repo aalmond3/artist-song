@@ -1,6 +1,6 @@
-# Single Song Promotion
+# Song Name by Artist Name
 
-> Playlists more popular than albums 
+> Single line from song
 
 ## What is this? 
 * A website to promote a single-song
@@ -13,4 +13,5 @@
 * What's old is new agai. This is the [modern mixtape](https://en.wikipedia.org/wiki/Mixtape) or a compilation of curated songs. 
 
 ## Citations
-* Your citations go here
+[name of link](linkurl)
+[Genuis](genuis.com)
